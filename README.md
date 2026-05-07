@@ -1,3 +1,6 @@
+> [!WARNING]
+> This project has been archived and is no longer maintained.
+
 # ✅ whatType
 Python package to check the type of a variable or object.  
 
@@ -64,5 +67,4 @@ $ pip install -e .[dev]
 ```
 
 ## 🚦 Development Progress
-
-Unstable Development  
+No longer developed 
